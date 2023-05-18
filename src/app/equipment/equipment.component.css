@@ -6,14 +6,17 @@
 button {
     margin: 2px;
     cursor: pointer;
+    color: white;
+    
 }
 
 h3 {
     text-align: center;
+    background-color: rosybrown;
 }
 
 .active {
-    background: gold;
+    background: purple;
 }
 
 .nearMaxMass {

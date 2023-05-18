@@ -17,6 +17,9 @@ img {
 
 h3 {
     text-align: center;
+    background-color: rosybrown;
 }
 
-/* Add a 'selected' class here to style selected astronaut names a different color. */
+.selected {
+    color:darkorchid;
+}

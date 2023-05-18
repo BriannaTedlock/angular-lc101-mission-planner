@@ -4,10 +4,11 @@
 
 h2 {
     text-align: center;
-    color: brown;
+    color: purple;
 }
 
 h1 {
     text-align: center;
     text-decoration: underline;
+    background-color: rosybrown;
 }
